@@ -1,4 +1,7 @@
 #1
+from Lesson1_remember.HW_1_decision import get_words_reverse
+
+
 def print_list_reverse(lst):
     if lst is None or type(lst) is not list or len(lst) == 0:
         print("Wrong list")
@@ -80,3 +83,8 @@ print(get_students_by_grade({"Alice": 90, "Bob": 85, "Diana": 90, "Charlie": 85}
 print(get_students_by_grade({}))
 print(get_students_by_grade(None))
 print(get_students_by_grade([1, 2, 3]))
+
+
+
+        #if grade not in result:
+        #

@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4">
+      <change afterPath="$PROJECT_DIR$/Lesson5_exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5_exceptions/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/HW_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/pathlib_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/students.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +73,7 @@
     "Python.7_filter.executor": "Run",
     "Python.HW_1_decision.executor": "Run",
     "Python.HW_3.executor": "Run",
+    "Python.HW_4.executor": "Run",
     "Python.HW_lesson1.executor": "Run",
     "Python.HW_lesson2.executor": "Run",
     "Python.HW_lesson3.executor": "Run",
@@ -76,7 +82,10 @@
     "Python.Remember.executor": "Run",
     "Python.String_methods.executor": "Run",
     "Python.elif.executor": "Run",
+    "Python.exceptions.executor": "Run",
     "Python.loop.executor": "Run",
+    "Python.pathlib.executor": "Run",
+    "Python.pathlib_file.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.type_colections (1).executor": "Run",
     "Python.type_colections.executor": "Run",
@@ -102,8 +111,8 @@
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson_2_collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.type_colections1">
-    <configuration name="elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exceptions">
+    <configuration name="HW_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson1_remember" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4_files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson1_remember/elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4_files/HW_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,8 +134,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="type_colections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA_35-53_Webinars" />
+    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +143,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (QA_35-53_Vebinars)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_2" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson5_exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_2/type_colections.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5_exceptions/exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pathlib_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QA3553_2_Remember" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\lesson4_files\pathlib_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,66 +247,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="type_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA_35-53_Webinars" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (QA_35-53_Vebinars)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../QA_35-53_Vebinars/Webinar_1" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../QA_35-53_Vebinars/Webinar_1/type_strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="webinar_3_20-07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA_35-53_Webinars" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (QA_35-53_Vebinars)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../QA_35-53_Vebinars" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_3_20-07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.HW_4" />
+      <item itemvalue="Python.exceptions" />
+      <item itemvalue="Python.pathlib_file" />
       <item itemvalue="Python.type_colections1" />
       <item itemvalue="Python.type_strings1" />
-      <item itemvalue="Python.webinar_3_20-07" />
-      <item itemvalue="Python.type_colections" />
-      <item itemvalue="Python.elif" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exceptions" />
+        <item itemvalue="Python.HW_4" />
+        <item itemvalue="Python.pathlib_file" />
         <item itemvalue="Python.type_colections1" />
         <item itemvalue="Python.type_strings1" />
-        <item itemvalue="Python.webinar_3_20-07" />
-        <item itemvalue="Python.type_colections" />
-        <item itemvalue="Python.type_colections" />
       </list>
     </recent_temporary>
   </component>

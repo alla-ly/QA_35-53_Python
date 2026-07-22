@@ -5,6 +5,7 @@
 #исключительная ситуация - не нашелся код и т.д
 
 #exceptions:
+
 # print("START PROGRAM")
 # result1 = 10/0
 # print(result1)

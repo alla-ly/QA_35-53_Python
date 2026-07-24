@@ -6,16 +6,17 @@ def get_list_element(items, index):
         return "Index is out of range"
 
 numbers = [10, 20, 30]
-
 print(get_list_element(numbers, 1))
 print(get_list_element(numbers, 10))
+print()
 
-#2
+#
 def get_user_data(user, key):
     try:
         return user[key]
     except KeyError:
         return "Key was not found"
+
 user = {
     "name": "Anna",
     "age": 30
@@ -23,53 +24,98 @@ user = {
 
 print(get_user_data(user, "name"))
 print(get_user_data(user, "email"))
+print()
 
 #3
 def calculate_average(first_value, second_value):
     try:
-        num1 = float(first_value)
-        num2 = float(second_value)
-        return (num1 + num2) / 2
-
+       first_num = float(first_value)
+       second_num = float(second_value)
     except ValueError:
         return "Value must be a number"
-
     except TypeError:
         return "Invalid data type"
+    return (first_num+second_num)/2
 
 print(calculate_average("10", "20"))
 print(calculate_average("hello", "20"))
 print(calculate_average(None, 20))
+print()
 
-#4
+# 4
 def read_number():
     try:
         user_input = input("Enter a number: ")
         number = int(user_input)
-        print("Number was entered successfully")
     except ValueError:
         print("Invalid number")
+    else:
+        print("Number was entered successfully")
     finally:
         print("Program finished")
 
 read_number()
+print()
 
 #5
 def validate_age(age):
     if age < 0:
-       raise ValueError ("Age cannot be negative")
-    elif age > 120:
-       raise ValueError ("Age is not realistic")
-    return age
+        raise ValueError ("Age cannot be negative")
+    if age > 120:
+        raise ValueError ("Age is not realistic")
 
-print(validate_age(25))
+# validate_age(25)
+# validate_age(-5)
+# validate_age(165)
+#vatiant 1
+try:
+    validate_age(25)
+except ValueError as error:
+    print(error)
 
 try:
-    validate_age(-5)
-except ValueError as e:
-    print(e)
+    print(validate_age(-5))
+except ValueError as error:
+    print(error)
 
 try:
-    validate_age(150)
-except ValueError as e:
-    print(e)
+    print(validate_age(165))
+except ValueError as error:
+    print(error)
+
+#2 variant 2
+ages = [17,25, -5, 150, 40, 300, 46, 99, 119]
+for age in ages:
+    try:
+        print(validate_age(age))
+    except ValueError as error:
+        print(error)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

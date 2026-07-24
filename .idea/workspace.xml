@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4">
-      <change afterPath="$PROJECT_DIR$/HW_QA3553/HW_lesson5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5_exceptions/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_exceptions/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5_exceptions/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_exceptions/exceptions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +80,7 @@
     "Python.calculator.executor": "Run",
     "Python.elif.executor": "Run",
     "Python.exceptions.executor": "Run",
+    "Python.exceptions_my.executor": "Run",
     "Python.loop.executor": "Run",
     "Python.pathlib.executor": "Run",
     "Python.pathlib_file.executor": "Run",
@@ -111,7 +109,7 @@
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson_2_collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW_lesson5">
+  <component name="RunManager" selected="Python.exceptions_my">
     <configuration name="HW_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
@@ -200,8 +198,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pathlib_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA3553_2_Remember" />
+    <configuration name="exceptions_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="QA_35-53_Webinars" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,11 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4_files" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12 (QA_35-53_Vebinars)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_3" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\lesson4_files\pathlib_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_3/exceptions_my.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,19 +222,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.exceptions_my" />
       <item itemvalue="Python.HW_lesson5" />
       <item itemvalue="Python.HW_4" />
       <item itemvalue="Python.calculator" />
       <item itemvalue="Python.exceptions" />
-      <item itemvalue="Python.pathlib_file" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exceptions_my" />
         <item itemvalue="Python.HW_lesson5" />
         <item itemvalue="Python.calculator" />
         <item itemvalue="Python.exceptions" />
         <item itemvalue="Python.HW_4" />
-        <item itemvalue="Python.pathlib_file" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784356324139</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW_lesson4">
+      <option name="closed" value="true" />
+      <created>1784739161176</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784739161176</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4" />
+    <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4">
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/10_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/1_polymorfism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/2_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/3_dogAndCar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/4_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/5_student_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/6_dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/8_dog_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/9_animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/calculator_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/assert_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/unittest_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,22 +66,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_unittest_1.TestCalculator.test_add.executor": "Run",
+    "Python tests.Python tests in 2_unittest.py.executor": "Run",
+    "Python tests.Python tests in test_unittest_2.py.executor": "Run",
+    "Python tests.Python tests in unittest_2.py.executor": "Run",
     "Python.1_collections.executor": "Run",
     "Python.1_file_write.executor": "Run",
     "Python.1_files.executor": "Run",
     "Python.1_functionPRO.executor": "Run",
+    "Python.1_polymorfism (1).executor": "Run",
     "Python.2_args.executor": "Run",
     "Python.2_file_read.executor": "Run",
+    "Python.2_student.executor": "Run",
     "Python.3_csv.executor": "Run",
     "Python.3_csv_files.executor": "Run",
     "Python.3_dict.executor": "Run",
     "Python.3_kwargs.executor": "Run",
+    "Python.4_book.executor": "Run",
     "Python.4_json.executor": "Run",
     "Python.4_json_file.executor": "Run",
     "Python.4_lambda.executor": "Run",
     "Python.4_unpacking.executor": "Run",
+    "Python.5_student_1.executor": "Run",
     "Python.6_map.executor": "Run",
+    "Python.7_calculator.executor": "Run",
     "Python.7_filter.executor": "Run",
+    "Python.8_dog_1.executor": "Run",
+    "Python.9_animal.executor": "Run",
     "Python.HW_1_decision.executor": "Run",
     "Python.HW_3.executor": "Run",
     "Python.HW_4.executor": "Run",
@@ -77,10 +106,12 @@
     "Python.Remember.executor": "Run",
     "Python.String_methods.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.car.executor": "Run",
     "Python.elif.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.exceptions_my.executor": "Run",
     "Python.loop.executor": "Run",
+    "Python.oop.executor": "Run",
     "Python.pathlib.executor": "Run",
     "Python.pathlib_file.executor": "Run",
     "Python.tuple.executor": "Run",
@@ -90,6 +121,7 @@
     "Python.type_strings (1).executor": "Run",
     "Python.type_strings.executor": "Run",
     "Python.type_strings1.executor": "Run",
+    "Python.unittest_2.executor": "Run",
     "Python.webinar_3_20-07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -107,9 +139,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson_2_collections" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\oop" />
+      <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\unittasts" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.HW_5">
-    <configuration name="HW_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_unittest_1.TestCalculator.test_add">
+    <configuration name="9_animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson5_exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5_exceptions/HW_5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\oop\9_animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HW_lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="unittest_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_QA3553" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_QA3553/HW_lesson5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\unittasts\unittest_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,87 +189,66 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_unittest_1.TestCalculator.test_add" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson5_exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5_exceptions/calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA3553_2_Remember" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson5_exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5_exceptions/exceptions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exceptions_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="QA_35-53_Webinars" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12 (QA_35-53_Vebinars)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../QA_35-53_Vebinars/webinar_3/exceptions_my.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_unittest_1.TestCalculator.test_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_unittest_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="QA3553_2_Remember" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in unittest_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="QA3553_2_Remember" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/unittest_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.HW_5" />
-      <item itemvalue="Python.exceptions_my" />
-      <item itemvalue="Python.HW_lesson5" />
-      <item itemvalue="Python.calculator" />
-      <item itemvalue="Python.exceptions" />
+      <item itemvalue="Python.9_animal" />
+      <item itemvalue="Python.unittest_1" />
+      <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
+      <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
+      <item itemvalue="Python tests.Python tests in unittest_1.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW_5" />
-        <item itemvalue="Python.exceptions_my" />
-        <item itemvalue="Python.HW_lesson5" />
-        <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.exceptions" />
+        <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
+        <item itemvalue="Python.unittest_1" />
+        <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
+        <item itemvalue="Python tests.Python tests in unittest_1.py" />
+        <item itemvalue="Python.9_animal" />
       </list>
     </recent_temporary>
   </component>

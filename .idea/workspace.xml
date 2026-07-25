@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4">
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/10_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/1_polymorfism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/2_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/3_dogAndCar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/4_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/5_student_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/6_dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/8_dog_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/9_animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/oop/calculator_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/assert_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/unittest_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_QA3553/HW_lesson6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6_/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +87,7 @@
     "Python.HW_lesson3.executor": "Run",
     "Python.HW_lesson4.executor": "Run",
     "Python.HW_lesson5.executor": "Run",
+    "Python.HW_lesson6.executor": "Run",
     "Python.HomeWork_2.executor": "Run",
     "Python.Remember.executor": "Run",
     "Python.String_methods.executor": "Run",
@@ -144,8 +130,8 @@
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\unittasts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_unittest_1.TestCalculator.test_add">
-    <configuration name="9_animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HW_lesson6">
+    <configuration name="HW_lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW_QA3553" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\oop\9_animal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_QA3553/HW_lesson6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +222,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.9_animal" />
+      <item itemvalue="Python.HW_lesson6" />
       <item itemvalue="Python.unittest_1" />
       <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
       <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
@@ -244,11 +230,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW_lesson6" />
         <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
         <item itemvalue="Python.unittest_1" />
         <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
         <item itemvalue="Python tests.Python tests in unittest_1.py" />
-        <item itemvalue="Python.9_animal" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784875602732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HW_lesson4">
+      <option name="closed" value="true" />
+      <created>1784912112614</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784912112614</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

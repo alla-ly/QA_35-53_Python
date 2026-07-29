@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson4">
-      <change afterPath="$PROJECT_DIR$/HW_QA3553/HW_lesson6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_QA3553/HW_lesson7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/HW_lesson_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/password_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_numbers_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_three_checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/check_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/password_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/regexp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/assert_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/assert_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +62,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test+_three_checks.TestThreeChecks.test_three.executor": "Run",
     "Python tests.Python tests for test_unittest_1.TestCalculator.test_add.executor": "Run",
     "Python tests.Python tests in 2_unittest.py.executor": "Run",
+    "Python tests.Python tests in password_check.py.executor": "Run",
+    "Python tests.Python tests in test_numbers_list.py.executor": "Run",
+    "Python tests.Python tests in test_three_checks.py.executor": "Run",
     "Python tests.Python tests in test_unittest_2.py.executor": "Run",
     "Python tests.Python tests in unittest_2.py.executor": "Run",
     "Python.1_collections.executor": "Run",
@@ -88,18 +103,25 @@
     "Python.HW_lesson4.executor": "Run",
     "Python.HW_lesson5.executor": "Run",
     "Python.HW_lesson6.executor": "Run",
+    "Python.HW_lesson7.executor": "Run",
+    "Python.HW_lesson_6.executor": "Run",
     "Python.HomeWork_2.executor": "Run",
     "Python.Remember.executor": "Run",
     "Python.String_methods.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.car.executor": "Run",
+    "Python.check_email.executor": "Run",
+    "Python.classes_my.executor": "Run",
     "Python.elif.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.exceptions_my.executor": "Run",
     "Python.loop.executor": "Run",
     "Python.oop.executor": "Run",
+    "Python.order.executor": "Run",
+    "Python.password_check.executor": "Run",
     "Python.pathlib.executor": "Run",
     "Python.pathlib_file.executor": "Run",
+    "Python.regexp.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.type_colections (1).executor": "Run",
     "Python.type_colections.executor": "Run",
@@ -126,12 +148,12 @@
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson_2_collections" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\oop" />
       <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\unittasts" />
+      <recent name="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW_lesson6">
-    <configuration name="HW_lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HW_lesson7">
+    <configuration name="HW_lesson7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_QA3553/HW_lesson6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_QA3553/HW_lesson7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unittest_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW_lesson_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson6_OOP_unittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alla\QA3553_2_Remember\Lesson6_OOP_unittest\unittasts\unittest_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson6_OOP_unittest/HW_lesson_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_unittest_1.TestCalculator.test_add" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +209,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_unittest_1.TestCalculator.test_add&quot;" />
+      <option name="_new_target" value="&quot;Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_unittest_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks.test_three" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +224,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_unittest_1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks.test_three&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in unittest_1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_numbers_list.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="QA3553_2_Remember" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,24 +239,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/unittest_1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson6_OOP_unittest/unittasts/test_numbers_list.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.HW_lesson6" />
-      <item itemvalue="Python.unittest_1" />
-      <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
-      <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
-      <item itemvalue="Python tests.Python tests in unittest_1.py" />
+      <item itemvalue="Python.HW_lesson7" />
+      <item itemvalue="Python.HW_lesson_6" />
+      <item itemvalue="Python tests.Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks" />
+      <item itemvalue="Python tests.Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks.test_three" />
+      <item itemvalue="Python tests.Python tests in test_numbers_list.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW_lesson6" />
-        <item itemvalue="Python tests.Python tests for test_unittest_1.TestCalculator.test_add" />
-        <item itemvalue="Python.unittest_1" />
-        <item itemvalue="Python tests.Python tests in test_unittest_1.py" />
-        <item itemvalue="Python tests.Python tests in unittest_1.py" />
+        <item itemvalue="Python.HW_lesson7" />
+        <item itemvalue="Python.HW_lesson_6" />
+        <item itemvalue="Python tests.Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks.test_three" />
+        <item itemvalue="Python tests.Python tests for Lesson6_OOP_unittest.unittasts.test_three_checks.TestThreeChecks" />
+        <item itemvalue="Python tests.Python tests in test_numbers_list.py" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784912112614</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HW_lesson4">
+      <option name="closed" value="true" />
+      <created>1784997904311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784997904311</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

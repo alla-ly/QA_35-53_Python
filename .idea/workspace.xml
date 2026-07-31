@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="Lesson7">
-      <change afterPath="$PROJECT_DIR$/HW_QA3553/exercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_Regexp/HW_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74e91233-fdf4-4f07-b124-0d4628846564" name="Changes" comment="HW_lesson7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -379,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785342600612</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW_lesson7">
+      <option name="closed" value="true" />
+      <created>1785480808399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785480808399</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -389,8 +393,8 @@
     <MESSAGE value="Lesson3_functionPRO" />
     <MESSAGE value="HW_lesson3" />
     <MESSAGE value="HW_lesson4" />
-    <MESSAGE value="HW_lesson7" />
     <MESSAGE value="Lesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson7" />
+    <MESSAGE value="HW_lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_lesson7" />
   </component>
 </project>
